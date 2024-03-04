@@ -1,1 +1,0 @@
-docker run --name tmodloader_al-24-1 -v ./tmodloader-data:/data tmodloader_al-24-1
