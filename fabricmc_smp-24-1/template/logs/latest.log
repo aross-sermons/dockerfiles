@@ -1,0 +1,435 @@
+[11:59:34] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.15.7
+[11:59:34] [main/WARN]: Warnings were found!
+ - Mod 'Dynamic Lights' (dynamiclights) 1.7.1+mod recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+ - Mod 'Dynamic Lights' (dynamiclights) 1.7.1+mod recommends any version of modmenu-badges-lib, which is missing!
+	 - You should install any version of modmenu-badges-lib for the optimal experience.
+ - Mod 'Dynamic Lights' (dynamiclights) 1.7.1+mod recommends any version of midnightlib, which is missing!
+	 - You should install any version of midnightlib for the optimal experience.
+ - Mod 'More Mobs' (moremobs) 1.5.1+mod recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+ - Mod 'More Mobs' (moremobs) 1.5.1+mod recommends any version of modmenu-badges-lib, which is missing!
+	 - You should install any version of modmenu-badges-lib for the optimal experience.
+ - Mod 'More Mobs' (moremobs) 1.5.1+mod recommends any version of midnightlib, which is missing!
+	 - You should install any version of midnightlib for the optimal experience.
+ - Mod 'Spawn Animations' (spawnanimations) 1.9.4+mod recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+ - Mod 'Spawn Animations' (spawnanimations) 1.9.4+mod recommends any version of modmenu-badges-lib, which is missing!
+	 - You should install any version of modmenu-badges-lib for the optimal experience.
+ - Mod 'Spawn Animations' (spawnanimations) 1.9.4+mod recommends any version of midnightlib, which is missing!
+	 - You should install any version of midnightlib for the optimal experience.
+[11:59:34] [main/INFO]: Loading 150 mods:
+	- betterdeserttemples 1.20.4-Fabric-3.4.1
+	   \-- org_reflections_reflections 0.10.2
+	- betterdungeons 1.20.4-Fabric-4.4.1
+	   \-- org_reflections_reflections 0.10.2
+	- betterfortresses 1.20.4-Fabric-2.4.2
+	   \-- org_reflections_reflections 0.10.2
+	- betterjungletemples 1.20.4-Fabric-2.4.1
+	   \-- org_reflections_reflections 0.10.2
+	- bettermineshafts 1.20.4-Fabric-4.4.1
+	   \-- org_reflections_reflections 0.10.2
+	- betteroceanmonuments 1.20.4-Fabric-3.4.1
+	   \-- org_reflections_reflections 0.10.2
+	- betterstrongholds 1.20.4-Fabric-4.4.1
+	   \-- org_reflections_reflections 0.10.2
+	- betterwitchhuts 1.20.4-Fabric-3.4.1
+	   \-- org_reflections_reflections 0.10.2
+	- c2me 0.2.0+alpha.11.58
+	   |-- c2me-base 0.2.0+alpha.11.58
+	   |-- c2me-client-uncapvd 0.2.0+alpha.11.58
+	   |-- c2me-fixes-chunkio-threading-issues 0.2.0+alpha.11.58
+	   |-- c2me-fixes-general-threading-issues 0.2.0+alpha.11.58
+	   |-- c2me-fixes-worldgen-threading-issues 0.2.0+alpha.11.58
+	   |-- c2me-fixes-worldgen-vanilla-bugs 0.2.0+alpha.11.58
+	   |-- c2me-notickvd 0.2.0+alpha.11.58
+	   |-- c2me-opts-allocs 0.2.0+alpha.11.58
+	   |-- c2me-opts-chunk-access 0.2.0+alpha.11.58
+	   |-- c2me-opts-chunkio 0.2.0+alpha.11.58
+	   |-- c2me-opts-math 0.2.0+alpha.11.58
+	   |-- c2me-opts-scheduling 0.2.0+alpha.11.58
+	   |-- c2me-opts-worldgen-general 0.2.0+alpha.11.58
+	   |-- c2me-opts-worldgen-vanilla 0.2.0+alpha.11.58
+	   |-- c2me-rewrites-chunk-serializer 0.2.0+alpha.11.58
+	   |-- c2me-rewrites-chunkio 0.2.0+alpha.11.58
+	   |-- c2me-server-utils 0.2.0+alpha.11.58
+	   |-- c2me-threading-chunkio 0.2.0+alpha.11.58
+	   |-- c2me-threading-lighting 0.2.0+alpha.11.58
+	   |-- c2me-threading-worldgen 0.2.0+alpha.11.58
+	   |-- com_electronwill_night-config_core 3.6.5
+	   |-- com_electronwill_night-config_toml 3.6.5
+	   |-- com_ibm_async_asyncutil 0.1.0
+	   |-- net_objecthunter_exp4j 0.4.8
+	   \-- org_threadly_threadly 7.0
+	- cloth-config 13.0.121
+	   \-- cloth-basic-math 0.6.1
+	- collective 7.40
+	- ctov 3.4-beta
+	- doubledoors 5.4
+	- dynamiclights 1.7.1+mod
+	- elytra-trims 2.0.4
+	   \-- mixinsquared 0.1.2-beta.4
+	- fabric-api 0.96.11+1.20.4
+	   |-- fabric-api-base 0.4.36+78d798af4f
+	   |-- fabric-api-lookup-api-v1 1.6.49+82b1bb3e4f
+	   |-- fabric-biome-api-v1 13.0.16+78d798af4f
+	   |-- fabric-block-api-v1 1.0.16+3e2216cb4f
+	   |-- fabric-block-view-api-v2 1.0.4+78d798af4f
+	   |-- fabric-blockrenderlayer-v1 1.1.46+78d798af4f
+	   |-- fabric-client-tags-api-v1 1.1.7+78d798af4f
+	   |-- fabric-command-api-v1 1.2.41+f71b366f4f
+	   |-- fabric-command-api-v2 2.2.20+78d798af4f
+	   |-- fabric-commands-v0 0.2.58+df3654b34f
+	   |-- fabric-containers-v0 0.1.86+df3654b34f
+	   |-- fabric-content-registries-v0 5.0.15+78d798af4f
+	   |-- fabric-convention-tags-v1 1.5.10+78d798af4f
+	   |-- fabric-crash-report-info-v1 0.2.23+78d798af4f
+	   |-- fabric-data-attachment-api-v1 1.1.4+b90db5744f
+	   |-- fabric-data-generation-api-v1 13.2.4+5c0133444f
+	   |-- fabric-dimensions-v1 2.1.61+78d798af4f
+	   |-- fabric-entity-events-v1 1.6.1+09fc25014f
+	   |-- fabric-events-interaction-v0 0.7.1+389931eb4f
+	   |-- fabric-events-lifecycle-v0 0.2.74+df3654b34f
+	   |-- fabric-game-rule-api-v1 1.0.46+78d798af4f
+	   |-- fabric-item-api-v1 2.2.0+d6f2b0844f
+	   |-- fabric-item-group-api-v1 4.0.26+58f8c0124f
+	   |-- fabric-key-binding-api-v1 1.0.41+78d798af4f
+	   |-- fabric-keybindings-v0 0.2.39+df3654b34f
+	   |-- fabric-lifecycle-events-v1 2.3.0+a67ffb5d4f
+	   |-- fabric-loot-api-v2 2.1.9+78d798af4f
+	   |-- fabric-message-api-v1 6.0.5+78d798af4f
+	   |-- fabric-mining-level-api-v1 2.1.65+78d798af4f
+	   |-- fabric-model-loading-api-v1 1.0.8+78d798af4f
+	   |-- fabric-models-v0 0.4.7+9386d8a74f
+	   |-- fabric-networking-api-v1 3.1.7+2e5ac5484f
+	   |-- fabric-object-builder-api-v1 13.0.14+080016e44f
+	   |-- fabric-particles-v1 1.1.7+78d798af4f
+	   |-- fabric-recipe-api-v1 2.0.20+78d798af4f
+	   |-- fabric-registry-sync-v0 4.0.19+58f8c0124f
+	   |-- fabric-renderer-api-v1 3.2.4+78d798af4f
+	   |-- fabric-renderer-indigo 1.5.4+78d798af4f
+	   |-- fabric-renderer-registries-v1 3.2.53+df3654b34f
+	   |-- fabric-rendering-data-attachment-v1 0.3.42+73761d2e4f
+	   |-- fabric-rendering-fluids-v1 3.1.1+e761c6694f
+	   |-- fabric-rendering-v0 1.1.56+df3654b34f
+	   |-- fabric-rendering-v1 3.2.0+6fd945a04f
+	   |-- fabric-resource-conditions-api-v1 2.3.14+78d798af4f
+	   |-- fabric-resource-loader-v0 0.11.20+df798a894f
+	   |-- fabric-screen-api-v1 2.0.17+78d798af4f
+	   |-- fabric-screen-handler-api-v1 1.3.55+78d798af4f
+	   |-- fabric-sound-api-v1 1.0.17+78d798af4f
+	   |-- fabric-transfer-api-v1 4.0.11+eb30349a4f
+	   \-- fabric-transitive-access-wideners-v1 5.0.14+78d798af4f
+	- fabric-language-kotlin 1.10.19+kotlin.1.9.23
+	   |-- org_jetbrains_kotlin_kotlin-reflect 1.9.23
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 1.9.23
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 1.9.23
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 1.9.23
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.23.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.5.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.6.3
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.6.3
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.6.3
+	- fabricloader 0.15.7
+	   \-- mixinextras 0.3.5
+	- ferritecore 6.0.3
+	- followersteleporttoo 2.4
+	- huskhomes 4.6.1
+	   |-- adventure-platform-fabric 5.11.0
+	   |    |-- net_kyori_adventure-api 4.15.0
+	   |    |-- net_kyori_adventure-key 4.15.0
+	   |    |-- net_kyori_adventure-platform-api 4.3.2
+	   |    |-- net_kyori_adventure-text-logger-slf4j 4.15.0
+	   |    |-- net_kyori_adventure-text-minimessage 4.15.0
+	   |    |-- net_kyori_adventure-text-serializer-ansi 4.15.0
+	   |    |-- net_kyori_adventure-text-serializer-gson 4.15.0
+	   |    |-- net_kyori_adventure-text-serializer-json 4.15.0
+	   |    |-- net_kyori_adventure-text-serializer-plain 4.15.0
+	   |    |-- net_kyori_ansi 1.0.3
+	   |    |-- net_kyori_examination-api 1.3.0
+	   |    |-- net_kyori_examination-string 1.3.0
+	   |    \-- net_kyori_option 1.0.0
+	   |-- com_h2database_h2 2.2.220
+	   |-- com_mysql_mysql-connector-j 8.3.0
+	   |-- fabric-permissions-api-v0 0.2-SNAPSHOT
+	   |-- org_apache_commons_commons-pool2 2.12.0
+	   |-- org_mariadb_jdbc_mariadb-java-client 3.3.2
+	   |-- org_xerial_sqlite-jdbc 3.45.0.0
+	   |-- placeholder-api 2.3.0+1.20.3
+	   \-- redis_clients_jedis 5.1.0
+	- java 21
+	- lithium 0.12.1
+	- minecraft 1.20.4
+	- modernfix 5.15.0+mc1.20.4
+	- moremobs 1.5.1+mod
+	- mr_tool_trims 2.0.2+1.20
+	- nochatreports 1.20.4-v2.5.0
+	   |-- fabric-rendering-v1 3.0.11+9468a19d32
+	   \-- fabric-screen-api-v1 2.0.15+f6e85ac232
+	- nohostilesaroundcampfire 5.9
+	- noisium 1.0.2+mc1.20.x
+	- shulkerdropstwo 3.3
+	- silk-all 1.10.3
+	   |-- silk-commands 1.10.3
+	   |-- silk-core 1.10.3
+	   |-- silk-game 1.10.3
+	   |-- silk-igui 1.10.3
+	   |-- silk-nbt 1.10.3
+	   |-- silk-network 1.10.3
+	   \-- silk-persistence 1.10.3
+	- skeletonhorsespawn 3.8
+	- smallernetherportals 3.6
+	- spawnanimations 1.9.4+mod
+	- tectonic 2.2.1
+	- terralith 2.4.11
+	- threadtweak 1.20.4-0.1.2
+	- veinminer 2.0.2
+	   |-- de_miraculixx_core_ 2.0.3
+	   \-- fabric-permissions-api-v0 0.2-SNAPSHOT
+	- vmp 0.2.0+beta.7.138
+	   \-- com_ibm_async_asyncutil 0.1.0
+	- yungsapi 1.20.4-Fabric-4.4.2
+	   |-- org_javassist_javassist 3.29.2-GA
+	   \-- org_reflections_reflections 0.10.2
+	- yungsbridges 1.20.4-Fabric-4.4.0
+	   \-- org_reflections_reflections 0.10.2
+	- zombiehorsespawn 4.8
+[11:59:35] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/andrew/Documents/dockerfiles/fabricmc_smp-24-1/template/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[11:59:35] [main/INFO]: Compatibility level set to JAVA_17
+[11:59:35] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[11:59:35] [main/INFO]: Config defaultGlobalExecutorParallelismExpression changed from 
+    max(
+        1,
+        min(
+            if( is_windows,
+                (cpus / 1.6 - 2),
+                (cpus / 1.2 - 2)
+            ),
+            if( is_j9vm,
+                ( ( mem_gb - (if(is_client, 0.6, 0.2)) ) / 0.4 ),
+                ( ( mem_gb - (if(is_client, 1.2, 0.6)) ) / 0.6 )
+            )
+        ) - if(is_client, 2, 0)
+    )
+  to max(1,min(if(is_windows,(cpus/2.0),(cpus/1.5)),if(is_j9vm,((mem_gb-(if(is_client,0.5,0.2)))/0.2),((mem_gb-(if(is_client,0.8,0.5)))/0.2))))
+[11:59:36] [main/INFO]: Global Executor Parallelism: 4 configured, 4 evaluated, 3 default evaluated
+[11:59:36] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[11:59:36] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[11:59:36] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[11:59:36] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[11:59:36] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[11:59:36] [main/INFO]: Config noTickViewDistance.maxConcurrentChunkLoads changed from 8 to 2
+[11:59:36] [main/INFO]: Config noTickViewDistance.compatibilityMode changed from true to false
+[11:59:36] [main/INFO]: Config noTickViewDistance.enableExtRenderDistanceProtocol changed from true to false
+[11:59:36] [main/INFO]: Config noTickViewDistance.maxViewDistance changed from 2048 to 32
+[11:59:36] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[11:59:36] [main/INFO]: Initializing com.ishland.c2me.opts.chunk_access.mixin
+[11:59:36] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[11:59:36] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[11:59:36] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[11:59:36] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[11:59:36] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[11:59:36] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[11:59:36] [main/INFO]: Config ioSystem.gcFreeChunkSerializer changed from false to true
+[11:59:36] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[11:59:36] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[11:59:36] [main/INFO]: Initializing com.ishland.c2me.threading.chunkio.mixin
+[11:59:36] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[11:59:36] [main/INFO]: Initializing com.ishland.c2me.threading.worldgen.mixin
+[11:59:36] [main/INFO]: Config threadedWorldGen.enabled changed from true to true
+[11:59:36] [main/WARN]: Mod 'c2me' attempted to override option 'mixin.world.player_chunk_tick', which doesn't exist, ignoring
+[11:59:36] [main/WARN]: Option 'mixin.entity.collisions.fluid' requires 'mixin.experimental.entity.block_caching.fluid_pushing=false' but found 'true'. Setting 'mixin.entity.collisions.fluid=false'.
+[11:59:36] [main/INFO]: Loaded configuration file for Lithium: 129 options available, 3 override(s) found
+[11:59:36] [main/INFO]: Loaded configuration file for ModernFix 5.15.0+mc1.20.4: 53 options available, 13 override(s) found
+[11:59:36] [main/WARN]: Option 'mixin.bugfix.paper_chunk_patches' overriden (by mods [c2me]) to 'false'
+[11:59:36] [main/WARN]: Option 'mixin.perf.faster_item_rendering' overriden (by user configuration) to 'true'
+[11:59:36] [main/WARN]: Option 'mixin.perf.dynamic_resources' overriden (by user configuration) to 'true'
+[11:59:36] [main/WARN]: Option 'mixin.perf.cache_strongholds' overriden (by mods [c2me]) to 'false'
+[11:59:36] [main/WARN]: Option 'mixin.perf.clear_mixin_classinfo' overriden (by user configuration) to 'true'
+[11:59:36] [main/WARN]: Option 'mixin.perf.deduplicate_location' overriden (by user configuration) to 'true'
+[11:59:36] [main/WARN]: Option 'mixin.perf.dynamic_entity_renderers' overriden (by user configuration) to 'true'
+[11:59:36] [main/WARN]: Option 'mixin.perf.remove_spawn_chunks' overriden (by user configuration) to 'true'
+[11:59:36] [main/WARN]: Option 'mixin.perf.nbt_memory_usage' overriden (by mods [c2me]) to 'false'
+[11:59:36] [main/WARN]: Option 'mixin.perf.clear_fabric_mapping_tables' overriden (by user configuration) to 'true'
+[11:59:36] [main/WARN]: Option 'mixin.bugfix.packet_leak' overriden (by user configuration) to 'true'
+[11:59:36] [main/WARN]: Option 'mixin.bugfix.chunk_deadlock' overriden (by mods [c2me]) to 'false'
+[11:59:36] [main/WARN]: Option 'mixin.perf.thread_priorities' overriden (by mods [threadtweak]) to 'false'
+[11:59:36] [main/INFO]: Applying Nashorn fix
+[11:59:37] [main/INFO]: Successfully started async appender with [ServerGuiConsole, SysOut, File]
+[11:59:37] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/light/SWMRNibbleArray$SaveState (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/light/SWMRNibbleArray$SaveState)
+[11:59:37] [main/WARN]: Mixin malte0811.ferritecore.mixin.threaddetec.PalettedContainerMixin is disabled automatically as lithium is installed
+[11:59:37] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[11:59:37] [main/WARN]: Force-disabling mixin 'experimental.chunk_tickets.ChunkTicketManagerMixin' as rule 'mixin.experimental.chunk_tickets' (added by user configuration) disables it and children
+[11:59:38] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[11:59:38] [main/INFO]: ThreadTweak config initialized
+[11:59:42] [main/INFO]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[11:59:42] [main/INFO]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[11:59:42] [main/INFO]: Injecting BlockStateBase cache population hook into lithium$getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[11:59:43] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[11:59:46] [main/INFO]: Vanilla bootstrap took 6390 milliseconds
+[11:59:47] [main/INFO]: Reflections took 81 ms to scan 1 urls, producing 1 keys and 2 values
+[11:59:47] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
+[11:59:47] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 3 values
+[11:59:47] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[11:59:47] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[11:59:47] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[11:59:47] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[11:59:47] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[11:59:47] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[11:59:47] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[11:59:47] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[11:59:47] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[11:59:47] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[11:59:47] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[11:59:48] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[11:59:48] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[11:59:48] [main/INFO]: Loading Collective version 7.40.
+[11:59:48] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[11:59:48] [main/INFO]: [More Mobs] Loaded More Mobs by Tschipcraft successfully!
+[11:59:48] [main/INFO]: Loading Noisium.
+[11:59:49] [main/INFO]: Initializing Silk due to init call
+[11:59:49] [main/INFO]: [Spawn Animations] Loaded Spawn Animations by Tschipcraft successfully!
+[11:59:49] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[11:59:49] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 3 values
+[11:59:49] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[11:59:49] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[11:59:49] [main/INFO]: Initializing plugin config & locale files...
+[11:59:49] [main/INFO]: Successfully initialized plugin config & locale files
+[11:59:49] [main/INFO]: Initializing commands...
+[11:59:49] [main/INFO]: Successfully initialized commands
+[11:59:50] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:59:50] [main/INFO]: Bypassed Mojang DFU
+[11:59:53] [Worker-Main-4/ERROR]: Couldn't load tag minecraft:placeable_blocks_1_20_2 as it is missing following references: minecraft:grass (from mr_tool_trims)
+[11:59:53] [main/INFO]: Loaded 7 recipes
+[11:59:54] [main/INFO]: Loaded 1283 advancements
+[11:59:54] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: minecraft:placeable_blocks_1_20_2
+[11:59:54] [main/INFO]: Applied 301 biome modifications to 152 of 163 new biomes in 40.20 ms
+[11:59:54] [Server thread/INFO]: Reached SERVER_STARTING state
+[11:59:54] [Server thread/INFO]: Initialized mcCoroutineScope (MinecraftServer as executor)
+[11:59:54] [Server thread/INFO]: Initializing SQLite database connection...
+[11:59:54] [Server thread/INFO]: Successfully initialized SQLite database connection
+[11:59:54] [Server thread/INFO]: Initializing hooks...
+[11:59:54] [Server thread/INFO]: Registered 1 mod hooks: Fabric PlaceholderAPI
+[11:59:54] [Server thread/INFO]: Successfully initialized hooks
+[11:59:54] [Server thread/INFO]: Initializing events...
+[11:59:54] [Server thread/INFO]: Successfully initialized events
+[11:59:54] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[11:59:54] [Server thread/INFO]: Loading properties
+[11:59:54] [Server thread/INFO]: Default game type: SURVIVAL
+[11:59:54] [Server thread/INFO]: Generating keypair
+[11:59:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:59:55] [Server thread/INFO]: Using default channel type
+[11:59:55] [Server thread/INFO]: Preparing level "world"
+[11:59:55] [Server thread/INFO]: Enforcing safe world random access
+[11:59:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:59:59] [c2me-prioritized-2/INFO]: menu.preparingSpawn
+[11:59:59] [c2me-prioritized-0/INFO]: menu.preparingSpawn
+[11:59:59] [Server thread/INFO]: Time elapsed: 616 ms
+[11:59:59] [Server thread/INFO]: Done (4.156s)! For help, type "help"
+[11:59:59] [Server thread/WARN]: Dedicated server took 29.096 seconds to load
+[11:59:59] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3341
+[11:59:59] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_7469
+[11:59:59] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_7788
+[11:59:59] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3898$class_3208
+[11:59:59] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_5361
+[11:59:59] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4590
+[11:59:59] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6350$class_6351
+[11:59:59] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6686$class_6694
+[11:59:59] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_8791
+[11:59:59] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_7782
+[11:59:59] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3304
+[11:59:59] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_2454
+[11:59:59] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_55$class_56
+[11:59:59] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3421
+[11:59:59] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_7422
+[11:59:59] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_2405
+[11:59:59] [Worker-ResourceReload-0/INFO]: Force-loading class com.mojang.datafixers.types.templates.TaggedChoice$TaggedChoiceType
+[11:59:59] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3853$class_4162
+[11:59:59] [Worker-ResourceReload-0/INFO]: Force-loading class net.kyori.adventure.chat.SignedMessage
+[11:59:59] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3231
+[11:59:59] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_2818$class_5564
+[11:59:59] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_5454
+[11:59:59] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4243
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_2818$class_5563
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_5572
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_8603
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6746
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6306
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_5131
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3131$class_3132
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3244$1
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6748
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3366$class_3388
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6749
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6540$class_6541
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_7471
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6582
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_2545
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_2985
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_1258
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6540
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3233
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4246
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3390$class_3404
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3962$class_3963
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3509
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4916
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3962$class_3964
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_2812
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3962$class_3925
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4010
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4097
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4095
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6032
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3248
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_2248$class_2249
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_2674
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_2474
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_5817
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_2641$class_7232
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3495
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6568
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_7218
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3492
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6350$class_5832
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class com.ishland.c2me.rewrites.chunk_serializer.common.ChunkDataSerializer
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3471$class_3474
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_5579$class_5580
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3471$class_3476
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_1950
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6032$class_6033
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3499
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6640
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_1355
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4983
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4103
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_1948
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_1702
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3499$class_5162
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class com.mojang.datafixers.types.templates.TaggedChoice
+[12:00:00] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4103$class_4104
+[12:00:00] [Worker-ResourceReload-0/WARN]: Cleared mixin data structures
+[12:00:52] [Server thread/INFO]: commands.stop.stopping
+[12:00:52] [Server thread/INFO]: Successfully disabled HuskHomes v4.6.1
+[12:00:52] [Server thread/INFO]: Stopping server
+[12:00:52] [Server thread/INFO]: Saving players
+[12:00:52] [Server thread/INFO]: Saving worlds
+[12:00:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:00:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:00:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:00:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:00:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:00:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:00:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:00:52] [C2ME Storage #3/INFO]: Storage thread Thread[#75,C2ME Storage #3,8,main] stopped
+[12:00:52] [C2ME Storage #2/INFO]: Storage thread Thread[#74,C2ME Storage #2,8,main] stopped
+[12:00:52] [C2ME Storage #1/INFO]: Storage thread Thread[#73,C2ME Storage #1,8,main] stopped
+[12:00:52] [C2ME Storage #5/INFO]: Storage thread Thread[#77,C2ME Storage #5,8,main] stopped
+[12:00:52] [C2ME Storage #6/INFO]: Storage thread Thread[#78,C2ME Storage #6,8,main] stopped
+[12:00:52] [C2ME Storage #4/INFO]: Storage thread Thread[#76,C2ME Storage #4,8,main] stopped
+[12:00:52] [C2ME Storage #8/INFO]: Storage thread Thread[#80,C2ME Storage #8,8,main] stopped
+[12:00:52] [C2ME Storage #9/INFO]: Storage thread Thread[#81,C2ME Storage #9,8,main] stopped
+[12:00:52] [C2ME Storage #7/INFO]: Storage thread Thread[#79,C2ME Storage #7,8,main] stopped
