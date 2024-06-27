@@ -1,0 +1,22 @@
+# Use the official OpenJDK image as the base image
+FROM openjdk:17-jdk-slim
+
+# Set working directory
+WORKDIR /minecraft
+
+# Install dependencies
+RUN apt-get update && apt-get install -y wget unzip curl && apt-get clean
+
+# Download and extract the server files
+RUN wget -O /tmp/server.zip https://mediafilez.forgecdn.net/files/5478/251/server-1.0.6.zip && \
+    unzip /tmp/server.zip -d /minecraft && \
+    rm /tmp/server.zip
+
+# Ensure the startserver.sh script is executable
+RUN chmod +x /minecraft/startserver.sh
+
+# Expose the Minecraft server port
+EXPOSE 25565
+
+# Start the Minecraft server
+CMD ["sh", "-c", "./startserver.sh < /dev/null"]
