@@ -15,8 +15,10 @@ RUN wget -O /tmp/server.zip https://mediafilez.forgecdn.net/files/5478/251/serve
 # Ensure the startserver.sh script is executable
 RUN chmod +x /minecraft/startserver.sh
 
+RUN echo "eula=true" > eula.txt
+
 # Expose the Minecraft server port
-EXPOSE 25565
+EXPOSE 25575
 
 # Start the Minecraft server
 CMD ["sh", "-c", "./startserver.sh < /dev/null"]
