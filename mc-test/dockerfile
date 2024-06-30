@@ -2,13 +2,11 @@ FROM openjdk:17-jdk-slim
 
 WORKDIR /server
 
-COPY minecraft /server/
+COPY server /server/
 
 RUN chmod +x /server/runserver.sh
 
 EXPOSE 25565
 EXPOSE 25575
 
-VOLUME /server
-
-ENTRYPOINT ["sh runserver.sh"]
+CMD ["./runserver.sh"]
