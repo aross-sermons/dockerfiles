@@ -1,0 +1,9 @@
+FROM openjdk:17-jdk-slim
+
+COPY server.jar mcserver/server.jar
+
+WORKDIR /mcserver
+
+RUN echo "eula=true" > eula.txt
+
+CMD ["java", "-Xmx4G", "-Xms4G", "-jar", "server.jar", "nogui"]
