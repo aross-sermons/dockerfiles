@@ -11,4 +11,4 @@ EXPOSE 25575
 
 VOLUME /server
 
-ENTRYPOINT ["/server/runserver.sh"]
+ENTRYPOINT ["sh runserver.sh"]
