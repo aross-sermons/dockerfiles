@@ -7,13 +7,15 @@ RUN apt-get update && apt-get install -y curl
 # Download Fabric installer
 RUN curl -o fabricinstaller.jar https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar
 
+# Make the jarfile executable
+RUN chmod +x fabricinstaller.jar
+
 # Run Fabric Installer
 RUN java -jar fabricinstaller.jar server -dir ./mcserver -mcversion 1.20.1 -downloadMinecraft -noprofile
 
 # Copy mods and config from the Docker build context
 COPY mods ./mcserver/mods
 COPY config ./mcserver/config
-COPY modernfix ./mcserver/modernfix
 
 # Copy other config files
 COPY server.properties ./mcserver/server.properties
