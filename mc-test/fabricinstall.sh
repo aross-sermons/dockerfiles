@@ -1,1 +1,0 @@
-java -jar fabricinstaller.jar server -dir ./mcserver -mcversion 1.20.1 -downloadMinecraft -noprofile
