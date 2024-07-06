@@ -4,13 +4,14 @@ FROM openjdk:17-jdk-slim
 # Copy necessary directories
 COPY mods /server/mods
 COPY config /server/config
+COPY properties /server/properties
 
 # Copy necessary files
 COPY fabric-server-launch.jar /server/fabric-server-launch.jar
 COPY server.jar /server/server.jar
 COPY fabric-server-launcher.properties /server/fabric-server-launcher.properties
 COPY server.properties /server/server.properties
-COPY userchache.json /server/usercache.json
+COPY usercache.json /server/usercache.json
 COPY ops.json /server/ops.json
 COPY whitelist.json /server/whitelist.json
 
