@@ -1,0 +1,9 @@
+FROM alpine:latest
+
+RUN apk update && apk add --no-cache wget unzip mono
+
+WORKDIR /server
+
+EXPOSE 7777
+
+CMD["mono", "/server/Terr
